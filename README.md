@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# Amazon Sales Data Analysis Project
 
 ## Overview
 
